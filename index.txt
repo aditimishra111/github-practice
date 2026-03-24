@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Git Practice</title>
+	</head>
+	<body>
+		<h1>Git & GitHub Practice Task</h1>
+			<p>This repository is created as part of my internship training.</p>
+	</body>
+</html>
